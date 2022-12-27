@@ -1,0 +1,9 @@
+# Site settings
+title: Dana + Data + Life
+author:
+  name: Dana Hagist
+  email: dhagist@gmail.com
+description: "SHARING ME, MY PASSION FOR DATA, AND LIFE"
+
+# Build settings
+remote_theme: jekyll/minima
