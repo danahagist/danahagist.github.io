@@ -7,9 +7,9 @@ layout: home
 
 # Welcome to Dana Data Life
 
-## Dana – Dana Hagist, That’s Me
-## Data – My Passion, My Career
-## Life – Exploring, Learning, Growing
+### Dana – Dana Hagist, That’s Me
+### Data – My Passion, My Career
+### Life – Exploring, Learning, Growing
 
 Dana Data Life is part blog, part portfolio, covering the above three themes.
 
