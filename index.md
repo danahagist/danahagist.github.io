@@ -1,10 +1,6 @@
 ---
 layout: home
 ---
-
-
-![Golden Gate Bridge Photo](danahagist.github.io/docs/assets/images/cropped-cropped-coast-golden-gate-bridge-mountains-110824-26-1-1024x436.jpg)
-
 # Welcome to Dana Data Life
 
 ### Dana – Dana Hagist, That’s Me
