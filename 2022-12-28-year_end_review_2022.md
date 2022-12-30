@@ -21,11 +21,11 @@ Details: My average weight in December 2021 was 201 pounds. My average weight fo
 
 **What did I Learn?**
 Three things I learned this year through my daily habits:
-**1. With consistent effort, progress is inevitable.**
+1. **With consistent effort, progress is inevitable.**
 Although I lacked perfect discipline (hence the 80% success rate), I was fairly consistent and ambitious. That consistency allowed me to achieve the most difficult physicial challenge in my life, to lose over 10 pounds with a less than ideal diet, and to keep my days productive.
-**2. Lacking a disciplined diet limited my potential**
+2. **Lacking a disciplined diet limited my potential**
 More often than not, I've eaten whatever I want each day. And to me, "whatever I want" means burgers, burritos, beer, and many other food that contribute to brief moments of pure bliss followed by anxiety, inflammation, bloating, and lack of overall wellness. I'm finally realizing after 38 short years that is not a recipe for success. I will change that in 2023.
-**3. Tracking your progress is pretty cool**
+3. **Tracking your progress is pretty cool**
 With apps like Strava, Insight Timer, Apple Health and others... it's easier than ever to continually evaluate how you're doing and progressing. In 2022, these apps allowed me to stay committed and on track most days. For 2023, my goal is to see these success rates in each category improve, and to add some new goals/habits.
 
 
