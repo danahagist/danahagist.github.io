@@ -1,3 +1,9 @@
+---
+layout: post
+title: 2022 Year in Review
+categories: misc
+---
+
 # 2022 Year in Review
 
 In 2022, I continued many of the habits I developed over the last several years, but aimed to simplify my daily goals.
@@ -29,5 +35,5 @@ With simple and achievable action-based goals, it's relatively easy to hit miles
 With apps like Strava, Insight Timer, Apple Health and others... it's easier than ever to continually evaluate how you're doing and progressing. In 2022, these apps allowed me to stay committed and on track most days. For 2023, my goal is to see these success rates in each category improve, and to add some new goals/habits.
 
 
-**Stay Tuned for more on My Goals for 2023, Perhaps My Most Ambitious Yet!**
+**Stay tuned for more on my goals for 2023, perhaps my most ambitious yet**
 
