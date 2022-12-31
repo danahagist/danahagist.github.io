@@ -1,17 +1,17 @@
 ---
 layout: post
-title: My first post on Jekyll
+title: Welcome to Dana Data Life
 tags: first markdown example
 categories: demo
 ---
 
 # Welcome to Dana Data Life
 
-Dana – Dana Hagist, That’s Me
-Data – My Passion, My Career
-Life – Exploring, Learning, Growing
+### Dana – Dana Hagist, That’s Me
+### Data – My Passion, My Career
+### Life – Exploring, Learning, Growing
 
-After spending the last few years hosting my blog on Bluehost.com, I'm migrating over to the free hosting available through Github pages.
+After spending the last few years hosting my blog on Bluehost.com, I'm migrating to the free hosting available through GitHub Pages.
 
 Dana Data Life is part blog, part portfolio, covering the above three themes.
 
