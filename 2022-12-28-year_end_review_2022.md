@@ -6,8 +6,8 @@ categories: misc
 
 # 2022 Year in Review
 
-In 2022, I continued many of the habits I developed over the last several years, but aimed to simplify my daily goals.
-
+In 2022, I continued many of the habits I developed over the last several years, but aimed to simplify my daily goals.    
+  
 This consisted of breaking my goals into three simple groups outlined below, with one additional task for tracking progress.
 
 **Those daily goals consisted of the following:**
@@ -25,7 +25,7 @@ Details: According to Strava (my fitness app), in 2022 I ran 122 times for a tot
 6. I Recorded My Weight 260 times (70% success rate)
 Details: My average weight in December 2021 was 201 pounds. My average weight for December 2022 has been 190 pounds. My lowest average weight for 2022 was in October and November where I averaged 184 pounds. My goal is to get down to a sustained 175 pounds (more to come on that in posts on 2023 goals).
 
-**What did I Learn?**
+**What did I Learn?**  
 Three things I learned this year through my daily habits:
 1. **With consistent effort, progress is inevitable**  
 Although I lacked perfect discipline (hence the 80% success rate), I was fairly consistent and ambitious. That consistency allowed me to achieve the most difficult physicial challenge in my life, to lose over 10 pounds with a less than ideal diet, and to keep my days productive.
@@ -34,6 +34,6 @@ With simple and achievable action-based goals, it's relatively easy to hit miles
 3. **Tracking your progress is both fun and helpful**  
 With apps like Strava, Insight Timer, Apple Health and others... it's easier than ever to continually evaluate how you're doing and progressing. In 2022, these apps allowed me to stay committed and on track most days. For 2023, my goal is to see these success rates in each category improve, and to add some new goals/habits.
 
-
+  
 **Stay tuned for more on my goals for 2023, perhaps my most ambitious yet**
 
