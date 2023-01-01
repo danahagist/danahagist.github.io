@@ -5,7 +5,8 @@ tags: first markdown example
 categories: demo
 ---
 
-# Welcome to Dana Data Life
+![Golden Gate Bridge](https://github.com/danahagist/danahagist.github.io/blob/main/docs/assets/images/cropped-cropped-coast-golden-gate-bridge-mountains-110824-26-1-1024x436.jpg)
+
 
 ### Dana – Dana Hagist, That’s Me
 ### Data – My Passion, My Career
