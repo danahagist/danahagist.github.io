@@ -1,11 +1,7 @@
 ---
 layout: post
 title: 2022 Year in Review
-categories: misc
 ---
-
-# 2022 Year in Review
-
 In 2022, I continued many of the habits I developed over the last several years, but aimed to simplify my daily goals.    
   
 This consisted of breaking my goals into three simple groups outlined below, with one additional task for tracking progress.
