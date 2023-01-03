@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Book Review: Extreme Ownership by Jocko Willink and Leif Babin
+title: Book Review - Extreme Ownership by Jocko Willink and Leif Babin
 ---
 
-## Review by Dana Hagist
+### Review by Dana Hagist
   
 My Book Rating: 5/5
   
