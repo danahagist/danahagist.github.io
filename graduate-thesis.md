@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /Research/
+title: Research
+nav: true
 ---
 
 # Impact of Gubernatorial Partisanship on The Pursuit of the American Dream 
@@ -23,3 +23,5 @@ women. Employment rates are flat to slightly decreasing for men and increase for
 Poverty rates decrease for women relative to no change for men. Under a Republican governor, 
 there is evidence of a large disadvantage for both blacks and women, so the impact of having a 
 Democratic governor appears to narrow this gap.
+
+<a href="https://github.com/danahagist/danahagist.github.io/blob/main/docs/assets/images/thesis.pdf" target="_blank">Full Paper</a>
