@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Impact of Gubernatorial Partisanship on The Pursuit of the American Dream 
 permalink: /Research/
 ---
 
+# Impact of Gubernatorial Partisanship on The Pursuit of the American Dream 
 ### CU Denver Economics 2016 
 ### By Dana Hagist 
 ### Abstract: 
