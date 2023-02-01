@@ -26,6 +26,14 @@ Of all the "tell me about a time" questions you'll likely encounter, one of the 
 
 Another seemingly simple question requiring a bit of a complex answer.  And the answer, similarly, requires  you to make the complex simple.  You've probably heard the saying "you don't really understand something until you can explain it to a kindergartener." The goal in answering this question is being able to thoroughly break down both the problem and  your solution.  This includes both your thought process and the technical aspects; you'll be even better off if you can explain the alternatives including their costs and benefits.
 
+### Question 6: Tell me about a time when you had to learn a new technology for a project?
+
+In and outside of technology, you'll often be asked questions
+
+### Question 7: Imagine a stakeholder came and dropped off a proposal for a new product and wants to know, given your data expertise, whether moving forward with the project would make sense. How would you decide what to recommend? What would you consider
+
+Revenue potential, how to measure success, 
+
 
 ## Technical Questions
 
@@ -44,4 +52,16 @@ THE ANSWERS TO THE ABOVE QUESTIONS CAN BE FOUND HERE: https://math.stackexchange
 
 This question came up quite a bit for the more technical roles, and you should be able to lay out a general understanding of a confusion matrix and which type of misclassification is preferable.  For those not familiar with the concept, it's best understood in the context of an example.  Imagine you are a doctor who is responsible for diagnosing cancer, and for each cancer diagnosis, the patient will undergo additional testing.  Is it more problematic to diagnose somebody with cancer who doesn't have it, or to diagnose somebody with no cancer who does have it.  There are pros and cons to each side, but I believe it a more costly error to tell somebody they don't have cancer and they miss the opportunity for additional testing than sending somebody for the additional testing who may not need it.   Because no model is perfect, somebody who works on classification problems will always have to think of these trade-offs and pick the "lesser of two evils."
 
-### Question 3:
+### Question 3: Basic SQL/Python/R Coding
+### Imagine you have a table that looks like the following (with one example row included)
+State | City | # of Businesses
+CA    | San Jose | 1,000
+### Write code in SQL and another language of choice that would tell us the following:
+1. Which city in each state has the largest number of businesses?
+2. What are the total number of businesses per state?
+3. For each city, what is the number of businesses as a percentage of the state total?
+4. For each state, create a ranking of cities by # of Businesses from largest to smallest and then print your output ordered alphabetically by state and then ranking
+
+### Question 4: 
+### Imagine you are planning to make an update to your website with the goal of more subscribers. How would you go about determining whether the updates worked?
+Include some discussion of what you could do if you could use an A/B test and what if you already launched and wanted to measure after the fact
