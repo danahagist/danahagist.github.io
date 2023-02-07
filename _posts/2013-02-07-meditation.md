@@ -20,7 +20,13 @@ According to [thegoodbody.com](https://www.thegoodbody.com/meditation-statistics
 > - Depression (17.8%)
 
 # My Journey with Meditation
-I started meditating a few years back and like many others, I started off as a bit of a skeptic. 
+I started meditating a few years back and like many others, I started off as a bit of a skeptic. Meditation didn't seem like the type of thing that could be useful in maintstream society, for professionals and the like. I started off by going to several local meditation centers and taking part in sessions that were often around an hour in length. My first reactions were that sitting on the floor for an hour really hurt my back, that I spent the entire time thinking about random things, and that I wasn't sure how anybody actually got any benefit out of it. But as one session turned to two then three and so on, I noticed myself getting just a little bit better at focusing on my breath, at centering myself and I even learned that mindfulness can somehow make the pain of sitting in long meditation go away. That one was a surprise for me.
+
+Eventually, I somehow came across the app Insight Timer, with over 150,000 free meditations and I started exploring different styles, different techniques and finding what I enjoy most. I came to learn over time that meditation can be used as a tool to handle very specific situations, and it's not just a "sit in silence and be sure not to think" exercise. On Insight Timer, I'm now at 1,423 sessions for a total of 14,200 minutes. It's hard to believe that my journey has taken me that far, and I've seen several tangible benefits to the daily practice of meditation:
+
+1) Ability to calm down
+2) Using meditation to visualize, set intention, manifest
+3) Meditation to explore
 
 # Many Others Have Found Immense Value in Meditation
 Among the 200-500 people globally who meditate, many of the most influential and powerful leaders have shared the life-changing impact that meditation has had on their lives. Online, you can find collections and stories of famous meditators like the [50 Famous People Who Meditate List](https://www.meditationwise.com/50-famous-people-who-meditate). 
@@ -32,4 +38,8 @@ One person on this list, Steve Jobs, explained the benefits of meditation like t
 Do you think there is value in being able to see more, to notice subtlety or change your perspective by quieting your busy mind? If you're anything like I am, you probably think there is immense value there. The world is often busy and chaotic, throwing decisions, challenges and stiumlation at us constantly. Being able to actually find sanctuary internally is a huge gift that you can benefit greatly from.
 
 # Countless Inspirational Humans and Leaders have had Similar Journeys
+
+
+# How I Recommend Others Get Started in Meditation
+1 hour sessions not recommended. Box breathing, body scan, other guided.
 
