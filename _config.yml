@@ -10,3 +10,5 @@ theme: minima
 
 plugins:
  - jekyll-feed
+ - jekyll-gist
+
