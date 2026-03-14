@@ -294,24 +294,6 @@ img {
   text-align: center;
 }
 
-/* === About Preview === */
-.about-preview {
-  background: var(--bg-card);
-  border-radius: 12px;
-  padding: 2.5rem;
-  border: 1px solid var(--border);
-}
-
-.about-preview p {
-  color: var(--text-secondary);
-  line-height: 1.8;
-  margin-bottom: 1.5rem;
-}
-
-.about-preview p:last-of-type {
-  margin-bottom: 0;
-}
-
 /* === Page Content === */
 .page-header {
   padding: 8rem 0 2rem;
@@ -500,7 +482,4 @@ img {
     padding: 3rem 0;
   }
 
-  .about-preview {
-    padding: 1.5rem;
-  }
 }
