@@ -1,0 +1,62 @@
+{
+  "basics": {
+    "name": "Dana Hagist",
+    "label": "Data Scientist & Economist",
+    "image": "",
+    "email": "dhagist@gmail.com",
+    "summary": "Data Scientist at LinkedIn with a Master's in Economics. Passionate about turning data into insight, personal growth, and endurance athletics.",
+    "location": {
+      "city": "El Dorado Hills",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "danahagist",
+        "url": "https://www.linkedin.com/in/danahagist/"
+      },
+      {
+        "network": "GitHub",
+        "username": "danahagist",
+        "url": "https://github.com/danahagist"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LinkedIn",
+      "position": "Data Scientist",
+      "location": "California",
+      "summary": "Focusing on the marketing business, leveraging data to drive decisions and strategy."
+    }
+  ],
+  "education": [
+    {
+      "institution": "CU Denver",
+      "area": "Economics",
+      "studyType": "Master's Degree",
+      "endDate": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Science",
+      "keywords": ["Python", "R", "Machine Learning", "Data Analytics", "Jupyter Notebooks"]
+    },
+    {
+      "name": "Economics",
+      "keywords": ["Econometrics", "Regression Analysis", "Causal Inference"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Athletics",
+      "keywords": ["Brazilian Jiu Jitsu", "Marathons", "Triathlons"]
+    },
+    {
+      "name": "Personal Growth",
+      "keywords": ["Reading", "Continuous Learning"]
+    }
+  ]
+}

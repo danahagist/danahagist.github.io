@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Course Review - Dataquest, Data Scientist in Python"
+description: "An in-depth review of the Dataquest Data Scientist in Python course sequence and its strengths and weaknesses."
 author:
 - Dana Hagist
 ---

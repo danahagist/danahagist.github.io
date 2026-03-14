@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bridging the Gap Between Information Technology Novice and Confident Contributor"
+description: "A review of courses that helped me go from IT novice to confident contributor in analytics and BI."
 author:
 - Dana Hagist
 ---

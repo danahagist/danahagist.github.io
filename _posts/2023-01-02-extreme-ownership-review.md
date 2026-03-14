@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Book Review - Extreme Ownership by Jocko Willink and Leif Babin
+description: "Key leadership lessons from Extreme Ownership on accountability, prioritization, and simplicity."
 ---
 
 ### Review by Dana Hagist
