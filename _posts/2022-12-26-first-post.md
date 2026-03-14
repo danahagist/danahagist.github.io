@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Dana Data Life
+description: "Introducing Dana Data Life, a blog covering data, personal growth, and life lessons."
 tags: first markdown example
 categories: demo
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2023 Week 1 Progress Report - How's it Going?
+description: "A first-week check-in on my 2023 goals covering what is working, what is not, and adjustments ahead."
 author:
 - Dana Hagist
 ---

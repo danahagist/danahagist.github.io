@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Book Review - Discipline is Destiny by Ryan Holiday
+description: "Lessons from Ryan Holiday's Stoic philosophy on self-control, daily progress, and avoiding excess."
 author:
 - Dana Hagist
 ---
