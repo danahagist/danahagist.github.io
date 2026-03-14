@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Starting My Journey towards Data Science in 2018
-description: "How I transitioned from finance to data science by building a self-directed learning curriculum."
 author:
 - Dana Hagist
 ---
