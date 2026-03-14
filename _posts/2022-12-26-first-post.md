@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Welcome to Dana Data Life
-tags: first markdown example
-categories: demo
 ---
 
 ### Dana – Dana Hagist, That’s Me
