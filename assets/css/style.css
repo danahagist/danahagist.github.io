@@ -80,20 +80,8 @@ img {
   margin: 0 auto;
   padding: 1rem 1.5rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-}
-
-.nav-logo {
-  font-weight: 700;
-  font-size: 1.1rem;
-  color: var(--text-primary);
-  letter-spacing: -0.02em;
-}
-
-.nav-logo:hover {
-  color: var(--accent);
-  opacity: 1;
 }
 
 .nav-links {
